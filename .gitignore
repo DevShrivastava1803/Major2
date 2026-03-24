@@ -3,6 +3,11 @@ node_modules/
 .pnp
 .pnp.js
 
+# Design assets / local-only files
+screens/
+project_constitution.md.resolved
+download.ps1
+
 # Build outputs
 dist/
 build/
